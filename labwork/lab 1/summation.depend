@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706558878 source:c:\c_program\summation\main.c
+	<stdio.h>
+	<stdlib.h>
+

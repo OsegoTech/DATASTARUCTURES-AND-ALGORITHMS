@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706426029 source:c:\c_program\marks\main.cpp
+	<iostream>
+	<string>
+

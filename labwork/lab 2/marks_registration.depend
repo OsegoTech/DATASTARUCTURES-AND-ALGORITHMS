@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706425025 source:c:\c_program\marks_registration\main.c
+	<stdio.h>
+	<string.h>
+
